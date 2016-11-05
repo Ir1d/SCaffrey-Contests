@@ -8,7 +8,7 @@ Problem 1 of SCaffrey's Contest #1
 
 现在你手上有一个集合$\mathbb{S}$
 
-对任意一个非空集合$\mathbb{A}$定义有这样的运算:
+对任意一个非空集合$\mathbb{A}$定义有这样的运算：
 
 $f(\mathbb{A})=\prod_{a\in \mathbb{A}}a,f(\emptyset)=0, g(\mathbb{A})=\sum_{\mathbb{B} \subseteq \mathbb{A}}f(\mathbb{B})$
 
